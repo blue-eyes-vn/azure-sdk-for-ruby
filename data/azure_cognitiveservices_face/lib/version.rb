@@ -3,5 +3,5 @@
 # Licensed under the MIT License. See License.txt in the project root for license information.
 
 module Azure::CognitiveServices::Face
-  VERSION = '0.19.4'
+  VERSION = '0.19.6'
 end
