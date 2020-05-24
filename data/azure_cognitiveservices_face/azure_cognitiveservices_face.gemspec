@@ -11,8 +11,8 @@ require '../azure_cognitiveservices_face/lib/version'
 Gem::Specification.new do |spec|
   spec.name          = 'be_azure_cognitiveservices_face'
   spec.version       = Azure::CognitiveServices::Face::VERSION
-  spec.authors       = 'Microsoft Corporation'
-  spec.email         = 'azrubyteam@microsoft.com'
+  spec.authors       = 'cuong.ngo'
+  spec.email         = 'cuongnm265@gmail.com'
   spec.description   = 'Forked version of Microsoft Azure Cognitive Services Face Client Library for Ruby'
   spec.summary       = 'Official Ruby client library to consume Microsoft Azure Cognitive Services Face.'
   spec.homepage      = 'https://aka.ms/azure-sdk-for-ruby'
